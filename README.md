@@ -1,4 +1,4 @@
-This porject presents a comprehensive evaluation of machine learning and anomaly
+This project presents a comprehensive evaluation of machine learning and anomaly
 detection models for malware classification across varying system contexts, including DNS
 traffic, hardware data, and multi-device local networks. Three datasets are used to represent
 these contexts. The goal is to develop predictive models capable of accurately identifying
